@@ -18,5 +18,5 @@ def streaming(input_video):
 
 
 if __name__ == '__main__':
-    # container_HLS('BBB_1_min.mp4')
+    container_HLS('BBB_1_min.mp4')
     streaming('BBB_1_min.mp4')
